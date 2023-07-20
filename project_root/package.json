@@ -1,0 +1,29 @@
+{
+  "name": "vue-vite-daisyui",
+  "version": "1.0.0",
+  "description": "A Vue.js and Vite project with DaisyUI",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.0.0",
+    "vue-router": "^4.0.0",
+    "vuex": "^4.0.0",
+    "daisyui": "^1.11.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.2.4",
+    "vite": "^2.3.8",
+    "tailwindcss": "^2.2.7"
+  },
+  "keywords": [
+    "vue",
+    "vite",
+    "daisyui"
+  ],
+  "author": "",
+  "license": "ISC"
+}
